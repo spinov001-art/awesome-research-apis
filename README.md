@@ -14,6 +14,8 @@ A curated list of **free APIs for academic research, scientific data, and paper 
 | [CORE](https://core.ac.uk/services/api/) | 260M+ | Free key | Full-text from 10K+ repositories |
 | [Unpaywall](https://unpaywall.org/products/api) | 30M+ | Email only | Find free versions of paywalled papers |
 | [Europe PMC](https://europepmc.org/RestfulWebService) | 40M+ | No | European biomedical literature |
+| [ORCID](https://info.orcid.org/documentation/api-tutorials/) | 18M+ profiles | No | Researcher identity & publications |
+| [DBLP](https://dblp.org/faq/How+to+use+the+dblp+search+API.html) | 6M+ | No | Computer science publications |
 
 ## Data & Statistics
 
@@ -54,6 +56,10 @@ A curated list of **free APIs for academic research, scientific data, and paper 
 - [World Bank API: GDP & Economic Data](https://dev.to/0012303/world-bank-has-a-free-api-gdp-population-and-economic-data-for-every-country-51mi)
 - [Semantic Scholar API: AI-Powered Paper Search](https://dev.to/0012303/semantic-scholar-has-a-free-api-search-200m-papers-with-ai-powered-recommendations-g84)
 - [PubMed API: 35M+ Medical Papers](https://dev.to/0012303/pubmed-has-a-free-api-search-35m-medical-papers-without-scraping-5k6)
+- [ORCID API: 18M+ Researcher Profiles](https://dev.to/0012303/orcid-has-a-free-api-look-up-any-researchers-publications-in-seconds-48e6)
+- [DBLP API: 6M+ CS Papers](https://dev.to/0012303/dblp-has-a-free-api-search-every-computer-science-paper-ever-published-2a8c)
+- [NASA APIs: 20+ Free Space Data APIs](https://dev.to/0012303/nasa-has-20-free-apis-asteroids-mars-photos-exoplanets-and-more-3h83)
+- [FRED API: 800K+ US Economic Series](https://dev.to/0012303/fred-has-a-free-api-800000-us-economic-time-series-at-your-fingertips-46e9)
 
 ## Pre-Built Tools (GitHub Repos)
 
@@ -63,6 +69,11 @@ A curated list of **free APIs for academic research, scientific data, and paper 
 - [Unpaywall OA Checker](https://github.com/spinov001-art/unpaywall-oa-checker) — Find free papers
 - [Europe PMC Tool](https://github.com/spinov001-art/europe-pmc-tool) — Biomedical paper search
 - [World Bank Data Tool](https://github.com/spinov001-art/world-bank-data-tool) — Economic indicators
+- [ORCID Researcher Lookup](https://github.com/spinov001-art/orcid-researcher-lookup) — 18M+ researcher profiles
+- [DBLP Paper Search](https://github.com/spinov001-art/dblp-paper-search) — 6M+ CS publications
+- [NASA Data Tool](https://github.com/spinov001-art/nasa-data-tool) — 20+ NASA APIs
+- [FRED Economic Data](https://github.com/spinov001-art/fred-economic-data) — 800K+ US economic time series
+- [Academic Research Toolkit](https://github.com/spinov001-art/academic-research-toolkit) — All APIs in one place
 - [Python API Wrapper Template](https://github.com/spinov001-art/python-api-wrapper-template) — Build your own
 - [77 Apify Scrapers](https://apify.com/knotless_cadence) — Ready-to-use web scrapers
 
