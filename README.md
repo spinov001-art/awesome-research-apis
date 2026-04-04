@@ -93,4 +93,4 @@ MIT
 
 ---
 
-Built by [Aleksej Spinov](https://github.com/spinov001-art) · [Dev.to](https://dev.to/spinov001) · [Portfolio](https://spinov001-art.github.io)
+Built by [Aleksej Spinov](https://github.com/spinov001-art) · [Dev.to](https://dev.to/spinov001) · 📧 **spinov001@gmail.com** — custom quote in 2 hours
