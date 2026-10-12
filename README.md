@@ -24,6 +24,7 @@ A curated list of **free APIs for academic research, scientific data, and paper 
 | [World Bank API](https://data.worldbank.org/developer) | 16K+ indicators | No | Economic & development data |
 | [FRED API](https://fred.stlouisfed.org/docs/api/) | 800K+ series | Free key | US economic data |
 | [data.gov APIs](https://api.data.gov/) | Thousands | Free key | US government datasets |
+| [Invokely](https://invokely.ai/docs) | Source-cited official statistics | Free key or OAuth (MCP) | Economic and public data research |
 | [Eurostat](https://ec.europa.eu/eurostat/web/json-and-unicode-web-services) | EU stats | No | European statistics |
 | [UN Data API](https://data.un.org/Host.aspx?Content=API) | Global stats | No | International development data |
 
